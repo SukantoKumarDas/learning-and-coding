@@ -1,4 +1,4 @@
 # ignore node modules
-/decorator_factory/node_modules
+decorator_factory/node_modules
 # ignore compiled output
-/decorator_factory/dist
+decorator_factory/dist
